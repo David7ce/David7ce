@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 - Markup languages: HTML, Markdown, XML
 - Styling languages: CSS
 - Search Query Language (SQL): MySQL, PostgresSQL, TSQL
-- Web library/framework: CSS (Bootstrap), PHP full-stack (Laravel), JS front-end Static-Site-Gen (Astro, HuGo)
+- Web library/framework: CSS (Bootstrap), PHP full-stack (Laravel), Static-Site-Gen (Astro JS, HuGo)
 
 Read more [about me here](https://david7ce.github.io/about/).
