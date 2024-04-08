@@ -2,7 +2,7 @@
 <!-- Tables are not displayed together -->
 <div id="container" style="display: flex; justify-content: center; align-items: center; gap: 10px">
   <!-- Table 1 -->
-  <div class="table-container" style="width: 29%;">
+  <div class="table-container" style="width: 25%;">
     <h3 align="center">Languages</h3>
     <div>
       <strong>Human</strong>: <img src="https://img.shields.io/badge/Español-🇪🇸-red" alt="Spanish Badge">
@@ -37,7 +37,7 @@
   </div>
 
   <!-- Tabla 2 -->
-  <div style="width: 32%;">
+  <div style="width: 25%;">
     <h3 align="center">Software</h3>
     <div>
       <strong>OS</strong>: <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows Badge">
@@ -45,15 +45,15 @@
       <img src="https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white" alt="Debian GNU/Linux">
     </div>
     <div>
-      <strong>Text editors</strong>: <img src="https://img.shields.io/badge/-Obsidian-0D1321?style=flat&logo=obsidian&logoColor=white" alt="Obsidian Badge">
-      <img src="https://img.shields.io/badge/-Kate-0082C9?style=flat&logo=kate&logoColor=white" alt="Kate Badge">
-      <img src="https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim Badge">
+      <strong>Text editors</strong>: 
+      <!-- <img src="https://img.shields.io/badge/-Obsidian-0D1321?style=flat&logo=obsidian&logoColor=white" alt="Obsidian Badge"> -->
+      <!-- <img src="https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim Badge"> -->
       <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio" alt="Visual Studio Badge">
       <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code Badge">
     </div>
     <div>
       <strong>Sync</strong>: <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git Badge">
-      <img src="https://img.shields.io/badge/-FreeFileSync-0098FE?style=flat&logo=freefilesync&logoColor=white" alt="FreeFileSync Badge">
+      <!-- <img src="https://img.shields.io/badge/-FreeFileSync-0098FE?style=flat&logo=freefilesync&logoColor=white" alt="FreeFileSync Badge"> -->
       <img src="https://img.shields.io/badge/-Rsync-3D8CFF?style=flat&logo=rsync&logoColor=white" alt="Rsync Badge">
       <img src="https://img.shields.io/badge/-Syncthing-2D3134?style=flat&logo=syncthing&logoColor=white" alt="Syncthing Badge">
     </div>
