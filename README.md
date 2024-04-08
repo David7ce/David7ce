@@ -1,9 +1,9 @@
 <h2 align="center">Hi there 👋</h2>
 <!-- Tables are not displayed together -->
-<div id="container" style="display: flex; justify-content: center; align-items: center; gap: 10px">
+<div id="container" style="display: flex; justify-content: center;">
   <!-- Table 1 -->
   <div class="table-container" style="width: 25%;">
-    <h3 align="center">Languages</h3>
+    <!-- <h3>Languages</h3> -->
     <div>
       <strong>Human</strong>: <img src="https://img.shields.io/badge/Español-🇪🇸-red" alt="Spanish Badge">
       <img src="https://img.shields.io/badge/English-🇺🇸-blue" alt="English Badge">
@@ -38,7 +38,7 @@
 
   <!-- Tabla 2 -->
   <div style="width: 25%;">
-    <h3 align="center">Software</h3>
+    <!-- <h3>Software</h3> -->
     <div>
       <strong>OS</strong>: <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows Badge">
       <img src="https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" alt="Arch Linux Badge">
@@ -74,7 +74,9 @@
   </div>
 </div>
 
-<div id="stats" style="margin-top: 12px;">
+<br>
+
+<div id="stats">
   <p align="center">
       <a href="https://github.com/David7ce/"><img width="30%" src="https://github-readme-stats.vercel.app/api?username=David7ce&show_icons=true&theme=tokyonight"></a>
       <a href="https://github.com/David7ce"><img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David7ce&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
