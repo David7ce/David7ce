@@ -2,10 +2,10 @@
 
 <!-- Tabla 1 -->
 <div id"tables">
-<table style="float: left; width: 29%; margin-right: 12px;">
+<table style="float: left; width: 19%; margin-right: 12px;">
   <thead>
     <tr>
-      <th><strong>Computer Languages</strong></th>
+      <th><strong>Languages</strong></th>
       <th>Names</th>
     </tr>
   </thead>
@@ -39,7 +39,7 @@
 </div>
 
 <!-- Tabla 2 -->
-<table style="float: left; width: 29%;">
+<table style="float: left; width: 19%;">
   <thead>
     <tr>
       <th><strong>Software</strong></th>
@@ -76,15 +76,14 @@
 
 <div id="stats">
   <p align="center">
-      <a href="https://github.com/David7ce/"><img width="25%" src="https://github-readme-stats.vercel.app/api?username=David7ce&show_icons=true&theme=tokyonight"></a>
-      <a href="https://github.com/David7ce"><img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David7ce&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+      <a href="https://github.com/David7ce/"><img width="30%" src="https://github-readme-stats.vercel.app/api?username=David7ce&show_icons=true&theme=tokyonight"></a>
+      <a href="https://github.com/David7ce"><img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David7ce&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
   </p>
 </div>
 
 <div id="info">
   <p align="center">More <a href="https://David7ce.github.io/about/">about me here.</a></p>
 </div>
----
 
 <!--
 # Hi there 👋
