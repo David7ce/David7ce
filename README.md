@@ -12,8 +12,8 @@
       <strong>Programming</strong>: <img src="https://img.shields.io/badge/-Bash-444444?style=flat&logo=GNU%20Bash" alt="Bash Badge">
       <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=C%20Sharp&logoColor=white" alt="C# Badge">
       <img src="https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=JavaScript&logoColor=black" alt="JavaScript Badge">
-      <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white" alt="PHP Badge">
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python Badge">
+      <!-- <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white" alt="PHP Badge"> -->
+      <!-- <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python Badge"> -->
     </div>
     <div>
       <strong>Markup</strong>: <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" alt="HTML Badge">
@@ -32,7 +32,7 @@
       <strong>Web lib</strong>: <img src="https://img.shields.io/badge/-Astro%20JS-0c2445?style=flat&logo=astro" alt="Astro JS Badge">
       <img src="https://img.shields.io/badge/-Hugo-FF4088?style=flat&logo=hugo" alt="Hugo Badge">
       <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel Badge">
-      <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap Badge">
+      <!-- <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"> -->
     </div>
   </div>
 
@@ -60,7 +60,7 @@
     <div>
       <strong>Virtualization</strong>: <a href="https://www.docker.com"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"></a>
       <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox" alt="VirtualBox Badge">
-      <img src="https://img.shields.io/badge/-QEMU+virt-FF6600?style=flat&logo=qemu&logoColor=white" alt="QEMU Badge">
+      <!-- <img src="https://img.shields.io/badge/-QEMU+virt-FF6600?style=flat&logo=qemu&logoColor=white" alt="QEMU Badge"> -->
     </div>
     <div>
       <strong>Web browser</strong>: <img src="https://img.shields.io/badge/-Chromium-4E8FFB?style=flat&logo=Google%20Chrome&logoColor=white" alt="Chromium Badge">
