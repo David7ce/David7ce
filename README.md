@@ -9,9 +9,10 @@
 | **SQL**          | ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white) ![T-SQL Badge](https://img.shields.io/badge/-T--SQL-CC2927?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white)                                                      | I |  **Web browser**       | ![Chromium Badge](https://img.shields.io/badge/-Chromium-4E8FFB?style=flat&logo=Google%20Chrome&logoColor=white) ![Firefox Badge](https://img.shields.io/badge/-Firefox-FF7139?style=flat&logo=Firefox&logoColor=white)                                                                                                                  |
 | **Web lib**      | ![Astro JS Badge](https://img.shields.io/badge/-Astro%20JS-0c2445?style=flat&logo=astro) ![Hugo Badge](https://img.shields.io/badge/-Hugo-FF4088?style=flat&logo=hugo) ![Laravel Badge](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)                                                                                                          | I |  **Web server**        | ![Apache Badge](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white) ![Nginx Badge](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white) ![XAMPP Badge](https://img.shields.io/badge/-XAMPP-F37623?style=flat&logo=xampp&logoColor=white)                                        |
 
-|              |                                                                                                                                                                                                                                          |
-| :----------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:             |
+
+
 | ![Quiec's github stats](https://github-readme-stats.vercel.app/api?username=David7ce&show_icons=true&theme=tokyonight) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=David7ce&theme=radical&layout=compact) |
+| :----------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:             |
 
 
 <div id="info">
