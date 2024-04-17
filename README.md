@@ -16,12 +16,12 @@
   <p align="center">More <a href="https://David7ce.github.io/about/">about me here.</a></p>
 </div>
 
-> [!NOTE]
-> Every software produce a change on the hardware and viceversa.
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Readme Quotes"/>
 </div> 
+
+<!-- > [!NOTE]
+> Every software produce a change on the hardware and viceversa. -->
 
 <!--
 ![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)
