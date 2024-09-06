@@ -28,9 +28,15 @@
   </div>
 </details>
 
-<img src="https://github-readme-stats.vercel.app/api?username=David7ce&show_icons=true&theme=tokyonight&layout=compact" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David7ce&theme=tokyonight&layout=compact" alt="Most used languages" height="165" />
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Readme Quotes" height="150"/>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=David7ce&show_icons=true&theme=tokyonight&layout=compact" alt="GitHub stats" height="165" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David7ce&theme=tokyonight&layout=compact" alt="Most used languages" height="165" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center;"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Readme Quotes" height="150"/></td>
+  <tr>
+</table> 
 
 <div id="info">
   <p align="center">More <a href="https://David7ce.github.io/about/">about me here.</a></p>
