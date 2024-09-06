@@ -1,5 +1,43 @@
 <h2 align="center">Hi there 👋</h2>
 
+<details>
+  <summary><b>Languages for dev (I use):</b></summary>
+  <div>
+    <ul>
+      <li><b>Human</b>: Spanish, English</li>
+      <li><b>Markup</b>: Markdown</li>
+      <li><b>Programming</b>: Bash, C#, JS, PHP</li>
+      <li><b>Styling</b>: CSS</li>
+      <li><b>SQL</b>: MySQL, PostgresSQL, T-SQL</li>
+      <li><b>Web-lib</b>: Astro-JS, HUGO, Laravel</li>
+    </ul>
+  </div>
+</details>
+
+<details>
+  <summary><b>Software for dev (I use):</b></summary>
+  <div>
+  <ul>
+      <li><b>OS</b>: Windows, Linux (Arch, Debian, Fedora)</li>
+      <li><b>Code editor</b>b>: vscode, VisualStudio</li>
+      <li><b>Sync</b>: git, rsync, syncthing, borg</li>
+      <li><b>Virtualization</b>: Docker, Qemu+virt-manager, Virtualbox</li>
+      <li><b>Web-browser</b>: Chromium, Firefox</li>
+      <li><b>Web-server</b>: Apache, Nginx</li>
+    </ul>
+  </div>
+</details>
+
+<img src="https://github-readme-stats.vercel.app/api?username=David7ce&show_icons=true&theme=tokyonight&layout=compact" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David7ce&theme=tokyonight&layout=compact" alt="Most used languages" height="165" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Readme Quotes" height="150"/>
+
+<div id="info">
+  <p align="center">More <a href="https://David7ce.github.io/about/">about me here.</a></p>
+</div>
+
+
+<!--
 | **Languages**   | Names                                                                                                                                                                                                                                                                                                                                                                                |   |  **Software Dev Kit** | Names                                                                                                                                                                                                                                                                                                                                    |
 | :-------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |  :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Human**       | ![Spanish Badge](https://img.shields.io/badge/Español-es-red) ![English Badge](https://img.shields.io/badge/English-us-blue)                                                                                                                                                                                                                                                                                                                                              |   | **Operating System**  | ![Windows Badge](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Arch Linux Badge](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)                   | 
@@ -19,6 +57,7 @@
 <div id="info">
   <p align="center">More <a href="https://David7ce.github.io/about/">about me here.</a></p>
 </div>
+-->
 
 
 <!--
