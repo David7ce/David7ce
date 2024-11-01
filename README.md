@@ -1,21 +1,23 @@
 <h2 align="center">Hi there 👋</h2>
 
+This is are the languages and tools that I use for development.
+
 <details>
-  <summary><b>Languages for dev (I use):</b></summary>
+  <summary><b>Languages:</b></summary>
   <div>
     <ul>
       <li><b>Human</b>: Spanish, English</li>
-      <li><b>Markup</b>: Markdown</li>
-      <li><b>Programming</b>: Bash, C#, JS, PHP</li>
+      <li><b>Markup</b>: HTML, MD</li>
+      <li><b>Programming</b>: C#, JS, (PHP)</li>
       <li><b>Styling</b>: CSS</li>
       <li><b>SQL</b>: MySQL, PostgresSQL, T-SQL</li>
-      <li><b>Web-lib</b>: Astro-JS, HUGO, Laravel</li>
+      <li><b>Web-lib</b>: ASP.NET, Astro-JS, HUGO, (Laravel)</li>
     </ul>
   </div>
 </details>
 
 <details>
-  <summary><b>Software for dev (I use):</b></summary>
+  <summary><b>Software:</b></summary>
   <div>
   <ul>
       <li><b>OS</b>: Windows, Linux (Arch, Debian, Fedora)</li>
