@@ -20,10 +20,10 @@ These are the languages and tools that I use for development.
   <summary><b>Software:</b></summary>
   <div>
   <ul>
-      <li><b>OS</b>: Windows, Linux (Arch, Debian, Fedora)</li>
-      <li><b>Code editor</b>: vscode, VisualStudio</li>
-      <li><b>Sync</b>: git, rsync, syncthing, borg</li>
-      <li><b>Virtualization</b>: Docker, Qemu+virt-manager, Virtualbox</li>
+      <li><b>OS</b>: Windows (10/11), Linux (Arch, Debian, Fedora)</li>
+      <li><b>Code editor</b>: VS-Code, Visual-Studio</li>
+      <li><b>Sync</b>: Git, Rsync, Syncthing, Borg</li>
+      <li><b>Virtualization</b>: Docker, Qemu, Virtualbox</li>
       <li><b>Web-browser</b>: Chromium, Firefox</li>
       <li><b>Web-server</b>: Apache, Nginx</li>
     </ul>
