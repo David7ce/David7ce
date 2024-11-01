@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋</h2>
 
-This is are the languages and tools that I use for development.
+These are the languages and tools that I use for development.
 
 <details>
   <summary><b>Languages:</b></summary>
