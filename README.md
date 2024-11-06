@@ -11,7 +11,7 @@ These are the languages and tools that I use for development.
       <li><b>Programming</b>: C#, JS, (PHP)</li>
       <li><b>Styling</b>: CSS</li>
       <li><b>SQL</b>: MySQL, PostgresSQL, T-SQL</li>
-      <li><b>Web-lib</b>: ASP.NET, Astro-JS, HUGO, (Laravel)</li>
+      <li><b>Web-lib</b>: ASP.NET, Astro-JS, HUGO, React, (Laravel)</li>
     </ul>
   </div>
 </details>
