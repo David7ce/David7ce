@@ -1,7 +1,12 @@
 <h2 align="center">Hi there 👋</h2>
 <p align="center">These are the languages and tools that I use for software development.</p>
-<img align="center" src="zoo-dev.png" width="400px" />
-<p align="center">More <a href="https://David7ce.github.io/about/">about me here.</a></p>
+
+<p align="center">
+  <img src="zoo-dev.png" width="400px" />
+</p>
+
+<p align="center">More <a href="https://david7ce.github.io/about/">about me here.</a></p>
+
 
 <!--
 <details>
