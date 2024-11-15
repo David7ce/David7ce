@@ -30,6 +30,8 @@ These are the languages and tools that I use for development.
   </div>
 </details>
 
+<img src="zoo-dev.png" width="22em" />
+
 <div id="info">
   <p align="center">More <a href="https://David7ce.github.io/about/">about me here.</a></p>
 </div>
