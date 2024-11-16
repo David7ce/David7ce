@@ -2,7 +2,7 @@
 <p align="center">These are the languages and tools that I use for software development.</p>
 
 <p align="center">
-  <img src="zoo-dev.png" width="400px" />
+  <img src="zoo-dev.webp" width="400px" />
 </p>
 
 <p align="center">More <a href="https://david7ce.github.io/about/">about me here.</a></p>
