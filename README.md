@@ -6,76 +6,12 @@ These are the languages and tools that I use for software development:
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | [![España](./img/es.webp)](https://es.wikipedia.org/wiki/Espa%C3%B1a) [![UK](./img/us.webp)](https://en.wikipedia.org/wiki/United_States)                                                                                                                                                      |   | [![Git](./img/git.webp)](https://git-scm.com/) [![GitHub](./img/github.webp)](https://github.com/)                                                |
 | [![HTML](./img/html.webp)](https://html.spec.whatwg.org/) [![CSS](./img/css.webp)](https://www.w3.org/Style/CSS/) [![JavaScript](./img/javascript.webp)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![.NET](./img/dotnet.webp)](https://dotnet.microsoft.com/en-us/apps/aspnet) |   | [![VS Code](./img/vscode.webp)](https://code.visualstudio.com/) [![Visual Studio](./img/visual-studio.webp)](https://visualstudio.microsoft.com/) |
-| [![SSMS](./img/sql-server.webp)](https://www.microsoft.com/en-us/sql-server/) [![PostgreSQL](./img/postgressql.webp)](https://www.postgresql.org/) [![MySQL](./img/mysql.webp)](https://www.mysql.com/)                                                                                         |   | [![Firefox](./img/firefox.webp)](https://www.mozilla.org/en-US/firefox/) [![Chromium](./img/chromium.webp)](https://www.chromium.org/Home/)       |
+| [![SQLS](./img/sql-server.webp)](https://www.microsoft.com/en-us/sql-server/) [![PostgreSQL](./img/postgressql.webp)](https://www.postgresql.org/) [![MySQL](./img/mysql.webp)](https://www.mysql.com/)                                                                                         |   | [![Firefox](./img/firefox.webp)](https://www.mozilla.org/en-US/firefox/) [![Chromium](./img/chromium.webp)](https://www.chromium.org/Home/)      |
 | [![phpMyAdmin](./img/phpmyadmin.webp)](https://www.phpmyadmin.net/)                                                                                                                                                                                                                            |   | [![Docker](./img/docker.webp)](https://www.docker.com/) [![VirtualBox](./img/virtualbox.webp)](https://www.virtualbox.org/)                       |                                                                                                                                                   |
 | [![Apache](./img/apache.webp)](https://httpd.apache.org/) [![Nginx](./img/nginx.webp)](https://nginx.org/)                                                                                                                                                                                     |   | [![Windows](./img/windows.webp)](https://www.microsoft.com/en-us/windows) [![Linux](./img/linux.webp)](https://www.linux.org/)                    |                                                                                                                                                   |
 
 
 More [about me here](https://david7ce.github.io/about).
-
-<!--
-| Langs                                                                                                                                                                                                                                                                                                                                                                                                                                                       |     | Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_Espa%C3%B1a.svg" alt="España" width="32px" height="32px"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg" alt="UK" width="32px" height="32px">                                                                                                                                                                             |     | <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="32px" height="32px"></a> <a href="https://github.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" alt="GitHub" width="32px" height="32px"></a>                                                                         |
-| <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="32px" height="32px"></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Official_CSS_Logo.svg" alt="CSS" width="32px" height="32px"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="32px" height="32px"></a> <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" width="32px" height="32px"></a> |     | <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="32px" height="32px"></a> <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="Visual Studio" width="32px" height="32px"></a> |
-| <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="32px" height="32px"></a> <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="32px" height="32px"></a>                                       |     |  <a href="https://www.mozilla.org/en-US/firefox/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1024px-Firefox_logo%2C_2019.svg.png" alt="Firefox" width="32px" height="32px"></a> <a href="https://source.chromium.org/chromium" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Chromium_Logo.svg" alt="Chromium" width="32px" height="32px"></a>  |
-| <a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms" target="_blank"><img src="https://www.svgrepo.com/show/374093/sql.svg" alt="SSMS" width="32px" height="32px"></a> <a href="https://www.phpmyadmin.net/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PhpMyAdmin_logo.svg" alt="phpMyAdmin" width="32px" height="32px"></a>                                                          |     | <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="32px" height="32px"></a> <a href="https://www.virtualbox.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/VirtualBox_2024_Logo.svg" alt="VirtualBox" width="32px" height="32px"></a>                                                   |
-| <a href="https://httpd.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Apache_HTTP_server_logo_%282019-present%29.svg" alt="Apache" width="32px" height="32px"></a> <a href="https://nginx.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="Nginx" width="32px" height="32px"></a>                                                                       |     | <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="32px" height="32px"></a> <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="32px" height="32px"></a>                            |
--->
-
-<!--
-<h2 align="center">Hi there 👋</h2>
-<p align="center">These are the languages and tools that I use for software development.</p>
-
-<center></center>
-
-<p align="center">
-  <img src="zoo-dev.webp" width="400px" />
-</p>
-<p align="center">More <a href="https://david7ce.github.io/about/">about me here.</a></p>
--->
-
-<!--
-<details>
-  <summary><b>Languages:</b></summary>
-  <div>
-    <ul>
-      <li><b>Human</b>: Spanish, English</li>
-      <li><b>Markup</b>: HTML, MD</li>
-      <li><b>Programming</b>: C#, JS, (PHP)</li>
-      <li><b>Styling</b>: CSS</li>
-      <li><b>SQL</b>: MySQL, PostgresSQL, T-SQL</li>
-      <li><b>Web-lib</b>: ASP.NET, Astro-JS, HUGO, React, (Laravel)</li>
-    </ul>
-  </div>
-</details>
-
-<details>
-  <summary><b>Software:</b></summary>
-  <div>
-  <ul>
-      <li><b>OS</b>: Windows (10/11), Linux (Arch, Debian, Fedora)</li>
-      <li><b>Code editor</b>: VS-Code, Visual-Studio</li>
-      <li><b>Sync</b>: Git, Rsync, Syncthing, Borg</li>
-      <li><b>Virtualization</b>: Docker, Qemu, Virtualbox</li>
-      <li><b>Web-browser</b>: Chromium, Firefox</li>
-      <li><b>Web-server</b>: Apache, Nginx</li>
-    </ul>
-  </div>
-</details>
--->
-
-<!--
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=David7ce&show_icons=true&theme=tokyonight&layout=compact" alt="GitHub stats" height="165" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David7ce&theme=tokyonight&layout=compact" alt="Most used languages" height="165" /></td>
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align: center;"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Readme Quotes" height="150"/></td>
-  <tr>
-</table> 
--->
 
 <!--
 | **Languages**   | Names                                                                                                                                                                                                                                                                                                                                                                                |   |  **Software Dev Kit** | Names                                                                                                                                                                                                                                                                                                                                    |
