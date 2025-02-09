@@ -8,6 +8,5 @@
 ![Telegram](https://img.shields.io/badge/-Telegram-2AABAA?style=flat&logo=telegram&logoColor=white)
 ![MuseScore](https://img.shields.io/badge/-MuseScore-1D6A44?style=flat&logo=musescore&logoColor=white)
 ![Bitwig Studio](https://img.shields.io/badge/-Bitwig%20Studio-000000?style=flat&logo=bitwig&logoColor=white)
-![Obsidian](https://img.shields.io/badge/-Obsidian-0D1321?style=flat&logo=obsidian&logoColor=white)
 -->
 
