@@ -28,9 +28,9 @@ These are the languages, tools and software that I use for software development:
 
 More [about me here](https://david7ce.github.io/about).
 
-![wallpaper-devices](./img/wallpaper-david7ce-devices.png)
+<!-- ![wallpaper-devices](./img/wallpaper-david7ce-devices.png) -->
 
-![GitHub Skyline 2021-2025](github-skyline-2021-2025.stl)
+<!-- ![GitHub Skyline 2021-2025](github-skyline-2021-2025.stl) -->
 
 
 <!--
