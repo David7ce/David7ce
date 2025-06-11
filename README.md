@@ -1,8 +1,23 @@
-# Hi there 👋
+# 👨‍💻 David Alonso
+
+<p align="center">
+ 🚀 Full Stack Web Developer | 💡 Passionate about technology and programming
+</p>
+<p align="center">
+ 📍 Santa Cruz de Tenerife, Canary Islands, Spain
+</p>
+
+---
+
+### 📌 About me
+
+🎓 Graduate in Web Applications Development.  
+💻 Lover of clean code, functional design and digital innovation.  
+🎯 Always learning and improving to create useful and scalable solutions.  
 
 These are the languages, tools and software that I use for software development:
 
-## Languages
+## Languages & Tools
 
 | **Category**    | **Items**                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -27,6 +42,27 @@ These are the languages, tools and software that I use for software development:
 | **Web browser**    | ![Chromium](https://img.shields.io/badge/-Chromium-4E8FFB?style=flat&logo=Google%20Chrome&logoColor=white) ![Firefox](https://img.shields.io/badge/-Firefox-FF7139?style=flat&logo=Firefox&logoColor=white)                                                                                                                                                                                                                                          |
 | **Web server**     | ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white) ![XAMPP](https://img.shields.io/badge/-XAMPP-F37623?style=flat&logo=xampp&logoColor=white)                                                                                                                                                                  |
 | **Platforms**      | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)                                                                                                                                                   |
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Paradels's GitHub Stats](https://github-readme-stats.vercel.app/api?username=david7ce&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david7ce&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+
+### 📫 Conect with me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/david-alonsodd/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:david7ce@outlook.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 More [about me here](https://david7ce.github.io/about).
 
