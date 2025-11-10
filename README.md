@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 David Alonso</h1>
+<h1 align="center">David Alonso</h1>
 
 <p align="center">
  🚀 Full Stack Web Developer | 💡 Passionate about technology and programming
