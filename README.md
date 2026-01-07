@@ -43,15 +43,15 @@ These are the languages, tools and software that I use for software development:
 | **Web server**     | ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white) ![XAMPP](https://img.shields.io/badge/-XAMPP-F37623?style=flat&logo=xampp&logoColor=white)                                                                                                                    |
 | **Platforms**      | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)                                                                                                     |
 
+<!--
 ### 📊 GitHub Stats
 
 <div align="center">
-
-![Paradels's GitHub Stats](https://github-readme-stats.vercel.app/api?username=david7ce&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=david7ce&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david7ce&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
 
+-->
 
 ### 📫 Conect with me
 
