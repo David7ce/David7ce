@@ -43,6 +43,30 @@ These are the languages, tools and software that I use for software development:
 | **Web server**     | ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white) ![XAMPP](https://img.shields.io/badge/-XAMPP-F37623?style=flat&logo=xampp&logoColor=white)                                                                                                                    |
 | **Platforms**      | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)                                                                                                     |
 
+## Projects
+
+### Website
+
+- [david7ce/david7ce.github.io](https://github.com/david7ce/david7ce.github.io) - My website and Blog
+- [compuwiki/compuwiki.github.io](https://github.com/compuwiki/compuwiki.github.io) - Wiki of Computing
+- [interneto/interneto.github.io](https://github.com/interneto/interneto.github.io) - Rediscover the Internet (web directory, map explorer, toolbox, blog)
+- [read-rapide](https://github.com/David7ce/read-rapide) - Practice rapid reading
+
+### Mini apps
+
+-  [Calculator Race Time](https://github.com/David7ce/calculator-race-time) - Calc Race Time
+- [obsidian-pkm-vault/diccionario-es](https://github.com/obsidian-pkm-vault/diccionario-es) - Spanish Dictionary
+- [sleeptime calculator](https://github.com/David7ce/sleeptime-calc) - Sleep Time Calculator
+- [traductor multi](https://github.com/David7ce/traductor-multilenguaje) - Multilang Translator
+### Converter
+
+- [calendar-converter](https://github.com/David7ce/calendar-converter) - Calendar converter for multiple calendars
+- [recipesage to recipebox](https://github.com/David7ce/recipesage-to-recipebox) - Recipe converter from Recipesage to Recipebox
+- [recipesage converter](https://github.com/David7ce/recipesage-converter) - Recipesage converter
+### Vaults
+
+- [obsidian-pkm-vault/awesome-obsidian-vault](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault) - Awesome list of obsidian vaults
+
 <!--
 ### 📊 GitHub Stats
 
