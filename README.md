@@ -45,34 +45,35 @@ These are the languages, tools and software that I use for software development:
 
 ## Projects
 
-### Websites
+### My Project Websites
 
-- [david7ce/david7ce.github.io](https://github.com/david7ce/david7ce.github.io) - My website and Blog
-- [compuwiki/compuwiki.github.io](https://github.com/compuwiki/compuwiki.github.io) - Wiki of Computing
-- [interneto/interneto.github.io](https://github.com/interneto/interneto.github.io) - Rediscover the Internet (web directory, map explorer, toolbox, blog)
-- [read-rapide](https://github.com/David7ce/read-rapide) - Practice rapid reading
+- [david7ce/david7ce.github.io](https://github.com/david7ce/david7ce.github.io) - My David7ce's Blog and Portfolio
+- [compuwiki/compuwiki.github.io](https://github.com/compuwiki/compuwiki.github.io) - Wiki of Computing, articles and tables listing computing things
+- [interneto/interneto.github.io](https://github.com/interneto/interneto.github.io) - Interneto Project | Rediscover the Internet (web directory, map explorer, toolbox, blog)
 
-### Mini apps
+### Mini web apps
 
-- [Calculator Race Time](https://github.com/David7ce/calculator-race-time) - Calc Race Time
-- [obsidian-pkm-vault/diccionario-es](https://github.com/obsidian-pkm-vault/diccionario-es) - Spanish Dictionary
-- [sleeptime calculator](https://github.com/David7ce/sleeptime-calc) - Sleep Time Calculator
-- [traductor multi](https://github.com/David7ce/traductor-multilenguaje) - Multilang Translator
+- [Calculator Race Time](https://github.com/David7ce/calculator-race-time) - Calculate Race Time
+- [Calendar Converter](https://github.com/David7ce/calendar-converter) - Calendar converter for multiple calendars
+- [Read Rapide](https://github.com/David7ce/read-rapide) - Practice rapid reading
+- [Sleeptime calculator](https://github.com/David7ce/sleeptime-calc) - Sleep Time Calculator
+- [Traductor Multilenguaje](https://github.com/David7ce/traductor-multilenguaje) - Multilanguage Translator
 
-### Converter
+### CLI Converter
 
-- [calendar-converter](https://github.com/David7ce/calendar-converter) - Calendar converter for multiple calendars
-- [recipesage to recipebox](https://github.com/David7ce/recipesage-to-recipebox) - Recipe converter from Recipesage to Recipebox
-- [recipesage converter](https://github.com/David7ce/recipesage-converter) - Recipesage converter
+- [Recipesage to Recipebox](https://github.com/David7ce/recipesage-to-recipebox) - Recipe converter from Recipesage to Recipebox
+- [Recipesage Converter CLI](https://github.com/David7ce/recipesage-converter) - Recipesage converter
 
-### Ports
+### Linux Ports
 
-- [Affinity on Linux](https://github.com/arksys-os/affinity-on-linux)
+- [Arksys-OS ISO](https://github.com/arksys-os/arksys-iso) - An Arch Linux KDE ISO configured with minimal pkgs (not mantained)
+- [Affinity on Linux](https://github.com/arksys-os/affinity-on-linux) - Affinity apps ported to Linux (old suite individual apps)
+- [Linux Install Guide](https://github.com/arksys-os/linux-install-guide) - Guide article on how to install Linux
 
-### Writes
+### Vault of Knowledge
 
-- [Linux Install Guide](https://github.com/arksys-os/linux-install-guide)
-- [obsidian-pkm-vault/awesome-obsidian-vault](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault) - Awesome list of obsidian vaults
+- [Awesome Obsidian PKM Vault](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault) - Awesome list of obsidian vaults
+- [Diccionario español](https://github.com/obsidian-pkm-vault/diccionario-es) - Spanish Dictionary with JSON-LD
 
 ---
 
