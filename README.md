@@ -74,15 +74,7 @@ These are the languages, tools and software that I use for software development:
 - [Linux Install Guide](https://github.com/arksys-os/linux-install-guide)
 - [obsidian-pkm-vault/awesome-obsidian-vault](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault) - Awesome list of obsidian vaults
 
-<!--
-### 📊 GitHub Stats
-
-<div align="center">
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=david7ce&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david7ce&layout=compact&theme=tokyonight&hide_border=true)
-</div>
-
--->
+---
 
 ### 📫 Conect with me
 
@@ -97,5 +89,12 @@ These are the languages, tools and software that I use for software development:
 
 More [about me here](https://david7ce.github.io/en/about).
 
+<!--
+### 📊 GitHub Stats
+<div align="center">
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=david7ce&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david7ce&layout=compact&theme=tokyonight&hide_border=true)
+</div>
+-->
 <!-- ![wallpaper-devices](./img/wallpaper-david7ce-devices.png) -->
 <!-- ![GitHub Skyline 2021-2025](github-skyline-2021-2025.stl) -->
