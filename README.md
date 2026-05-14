@@ -45,7 +45,7 @@ These are the languages, tools and software that I use for software development:
 
 ## Projects
 
-### Website
+### Websites
 
 - [david7ce/david7ce.github.io](https://github.com/david7ce/david7ce.github.io) - My website and Blog
 - [compuwiki/compuwiki.github.io](https://github.com/compuwiki/compuwiki.github.io) - Wiki of Computing
@@ -54,17 +54,24 @@ These are the languages, tools and software that I use for software development:
 
 ### Mini apps
 
--  [Calculator Race Time](https://github.com/David7ce/calculator-race-time) - Calc Race Time
+- [Calculator Race Time](https://github.com/David7ce/calculator-race-time) - Calc Race Time
 - [obsidian-pkm-vault/diccionario-es](https://github.com/obsidian-pkm-vault/diccionario-es) - Spanish Dictionary
 - [sleeptime calculator](https://github.com/David7ce/sleeptime-calc) - Sleep Time Calculator
 - [traductor multi](https://github.com/David7ce/traductor-multilenguaje) - Multilang Translator
+
 ### Converter
 
 - [calendar-converter](https://github.com/David7ce/calendar-converter) - Calendar converter for multiple calendars
 - [recipesage to recipebox](https://github.com/David7ce/recipesage-to-recipebox) - Recipe converter from Recipesage to Recipebox
 - [recipesage converter](https://github.com/David7ce/recipesage-converter) - Recipesage converter
-### Vaults
 
+### Ports
+
+- [Affinity on Linux](https://github.com/arksys-os/affinity-on-linux)
+
+### Articles
+
+- [Linux Install Guide](https://github.com/arksys-os/linux-install-guide)
 - [obsidian-pkm-vault/awesome-obsidian-vault](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault) - Awesome list of obsidian vaults
 
 <!--
