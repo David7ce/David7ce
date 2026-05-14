@@ -69,7 +69,7 @@ These are the languages, tools and software that I use for software development:
 
 - [Affinity on Linux](https://github.com/arksys-os/affinity-on-linux)
 
-### Articles
+### Writes
 
 - [Linux Install Guide](https://github.com/arksys-os/linux-install-guide)
 - [obsidian-pkm-vault/awesome-obsidian-vault](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault) - Awesome list of obsidian vaults
