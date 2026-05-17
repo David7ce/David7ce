@@ -74,6 +74,7 @@ These are the languages, tools and software that I use for software development:
 
 - [Awesome Obsidian PKM Vault](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault) - Awesome list of obsidian vaults
 - [Diccionario español](https://github.com/obsidian-pkm-vault/diccionario-es) - Spanish Dictionary with JSON-LD
+- [Development Hub](https://github.com/compuwiki/dev-hub) - Development Hub for practicing and studying software development
 
 ---
 
