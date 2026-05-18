@@ -43,20 +43,20 @@ These are the languages, tools and software that I use for software development:
 | **Web server**     | ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white) ![XAMPP](https://img.shields.io/badge/-XAMPP-F37623?style=flat&logo=xampp&logoColor=white)                                                                                                                    |
 | **Platforms**      | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)                                                                                                     |
 
-## Projects
+## My Projects
 
-### My Project Websites
+- [David7ce Website](https://github.com/david7ce/david7ce.github.io) - My David7ce's Blog and Portfolio
+- [CompuWiki](https://github.com/compuwiki/compuwiki.github.io) - Wiki of Computing, articles and tables listing computing things
+- [Interneto Project Website](https://github.com/interneto/interneto.github.io) - Interneto Project | Rediscover the Internet (web directory, map explorer, toolbox, blog)
 
-- [david7ce/david7ce.github.io](https://github.com/david7ce/david7ce.github.io) - My David7ce's Blog and Portfolio
-- [compuwiki/compuwiki.github.io](https://github.com/compuwiki/compuwiki.github.io) - Wiki of Computing, articles and tables listing computing things
-- [interneto/interneto.github.io](https://github.com/interneto/interneto.github.io) - Interneto Project | Rediscover the Internet (web directory, map explorer, toolbox, blog)
+## Apps
 
-### Mini web apps
+### Web apps
 
 - [Calculator Race Time](https://github.com/David7ce/calculator-race-time) - Calculate Race Time
 - [Calendar Converter](https://github.com/David7ce/calendar-converter) - Calendar converter for multiple calendars
 - [Read Rapide](https://github.com/David7ce/read-rapide) - Practice rapid reading
-- [Sleeptime calculator](https://github.com/David7ce/sleeptime-calc) - Sleep Time Calculator
+- [Sleeptime Calculator](https://github.com/David7ce/sleeptime-calc) - Sleep Time Calculator
 - [Traductor Multilenguaje](https://github.com/David7ce/traductor-multilenguaje) - Multilanguage Translator
 - [TV Multiview](https://interneto.github.io/tv-multiview/) - Watch TV online with multiple channels at the same time in one screen
 
@@ -68,14 +68,14 @@ These are the languages, tools and software that I use for software development:
 ### Linux Ports
 
 - [Arksys-OS ISO](https://github.com/arksys-os/arksys-iso) - An Arch Linux KDE ISO configured with minimal pkgs (not mantained)
-- [Affinity on Linux](https://github.com/arksys-os/affinity-on-linux) - Affinity apps ported to Linux (old suite individual apps)
-- [Linux Install Guide](https://github.com/arksys-os/linux-install-guide) - Guide article on how to install Linux
+- [Arksys · Affinity on Linux](https://github.com/arksys-os/affinity-on-linux) - Affinity apps ported to Linux (old suite individual apps)
+- [Arksys · Linux Install Guide](https://github.com/arksys-os/linux-install-guide) - Guide article on how to install Linux
 
-### Vault of Knowledge
+## Vault of Knowledge
 
 - [Awesome Obsidian PKM Vault](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault) - Awesome list of obsidian vaults
-- [Diccionario español](https://github.com/obsidian-pkm-vault/diccionario-es) - Spanish Dictionary with JSON-LD
-- [Development Hub](https://github.com/compuwiki/dev-hub) - Development Hub for practicing and studying software development
+- [Compuwiki Diccionario Español](https://github.com/obsidian-pkm-vault/diccionario-es) - Spanish Dictionary with JSON-LD
+- [Compuwiki Development Hub](https://github.com/compuwiki/dev-hub) - Development Hub for practicing and studying software development
 
 ---
 
