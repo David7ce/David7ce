@@ -62,8 +62,8 @@ These are the languages, tools and software that I use for software development:
 
 ### CLI Converter
 
-- [Recipesage to Recipebox](https://github.com/David7ce/recipesage-to-recipebox) - Recipe converter from Recipesage to Recipebox
-- [Recipesage Converter CLI](https://github.com/David7ce/recipesage-converter) - Recipesage converter
+- [Recipesage to Recipebox](https://github.com/David7ce/recipesage-to-recipebox) - Recipe converter from Recipesage JSON to Recipebox zip JSON-LD
+- [Recipesage Converter CLI](https://github.com/David7ce/recipesage-converter) - Recipe converter from Recipesage JSON to PDF book
 
 ### Linux Ports
 
