@@ -57,7 +57,7 @@ These are the languages, tools and software that I use for software development:
 - [Read Rapide](https://github.com/David7ce/read-rapide) - Practice rapid reading
 - [Sleeptime Calculator](https://github.com/David7ce/sleeptime-calc) - Sleep Time Calculator
 - [Traductor Multilenguaje](https://github.com/David7ce/traductor-multilenguaje) - Multilanguage Translator
-- [TV Multiview](https://interneto.github.io/tv-multiview/) - Watch TV online with multiple channels at the same time in one screen
+- [TV Multiview](https://interneto.github.io/tv-multiview/) - Watch multiple TV channels at once
 
 ### CLI Converter
 
