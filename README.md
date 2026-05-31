@@ -59,10 +59,11 @@ These are the languages, tools and software that I use for software development:
 - [Traductor Multilenguaje](https://github.com/David7ce/traductor-multilenguaje) - Multilanguage Translator
 - [TV Multiview](https://interneto.github.io/tv-multiview/) - Watch multiple TV channels at once
 
-### CLI Converter
+### CLI
 
 - [Recipesage to Recipebox](https://github.com/David7ce/recipesage-to-recipebox) - Recipe converter from Recipesage JSON to Recipebox zip JSON-LD
 - [Recipesage Converter CLI](https://github.com/David7ce/recipesage-converter) - Recipe converter from Recipesage JSON to PDF book
+- [Interneto · TUI Toolbox Installer](https://github.com/interneto/tui-toolbox-installer) - Cross platform TUI Toolbox Installer for installgin desktop, mobile (android), extensions (browser and vscode) and libraries software packages
 
 ### Linux Ports
 
