@@ -54,8 +54,9 @@ These are the languages, tools and software that I use for software development:
 
 - [Calculator Race Time](https://github.com/David7ce/calculator-race-time) - Calculate Race Time
 - [Calendar Converter](https://github.com/David7ce/calendar-converter) - Calendar converter for multiple calendars
-- [Read Rapide](https://github.com/David7ce/read-rapide) - Practice rapid reading
-- [Sleeptime Calculator](https://github.com/David7ce/sleeptime-calc) - Sleep Time Calculator
+- [Cryptos Graph](http://david7ce.is-a.dev/cryptos-graph) - Graph of thr most famous cryptocurrencies
+- [Read Rapide](http://david7ce.is-a.dev/read-rapide) - Practice rapid reading
+- [Sleeptime Calculator](http://david7ce.is-a.dev/sleeptime-calc/) - Sleep Time Calculator
 - [Traductor Multilenguaje](https://github.com/David7ce/traductor-multilenguaje) - Multilanguage Translator
 - [TV Multiview](https://interneto.github.io/tv-multiview/) - Watch multiple TV channels at once
 
