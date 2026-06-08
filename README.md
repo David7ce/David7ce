@@ -52,13 +52,13 @@ These are the languages, tools and software that I use for software development:
 
 ### Web apps
 
-- [Calculator Race Time](https://github.com/David7ce/calculator-race-time) - Calculate Race Time
-- [Calendar Converter](https://github.com/David7ce/calendar-converter) - Calendar converter for multiple calendars
-- [Cryptos Graph](http://david7ce.is-a.dev/cryptos-graph) - Graph of thr most famous cryptocurrencies
-- [Read Rapide](http://david7ce.is-a.dev/read-rapide) - Practice rapid reading
-- [Sleeptime Calculator](http://david7ce.is-a.dev/sleeptime-calc/) - Sleep Time Calculator
+- [Calculator Race Time](https://david7ce.is-a.dev/calculator-race-time) [</>](https://github.com/David7ce/calculator-race-time) - Calculate Race Time
+- [Calendar Converter](https://david7ce.is-a.dev/calendar-converter) [</>](https://github.com/David7ce/calendar-converter) - Calendar converter for multiple calendars
+- [Cryptos Graph](http://david7ce.is-a.dev/cryptos-graph) [</>](https://github.com/David7ce) - Graph of thr most famous cryptocurrencies
+- [Read Rapide](http://david7ce.is-a.dev/read-rapide) [</>](https://github.com/David7ce/read-rapide) - Practice rapid reading
+- [Sleeptime Calculator](http://david7ce.is-a.dev/sleeptime-calc) [</>](https://github.com/David7ce/sleeptime-calc) - Sleep Time Calculator
 - [Traductor Multilenguaje](https://github.com/David7ce/traductor-multilenguaje) - Multilanguage Translator
-- [TV Multiview](https://interneto.github.io/tv-multiview/) - Watch multiple TV channels at once
+- [TV Multiview](https://interneto.github.io/tv-multiview) [</>](https://github.com/interneto/tv-multiview) - Watch multiple TV channels at once
 
 ### CLI
 
