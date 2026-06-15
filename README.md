@@ -46,8 +46,10 @@ These are the languages, tools and software that I use for software development:
 ## My Projects
 
 - [David7ce Website](https://github.com/david7ce/david7ce.github.io) - My David7ce's Blog and Portfolio
-- [Interneto Project Website](https://github.com/interneto/interneto.github.io) - A site grouping a web directory with map link explorer with toolbox software installer and a blog
-- [Wiki of Computing / CompuWiki](https://github.com/compuwiki/compuwiki.github.io) - Wiki of Computing, articles and tables listing computing things
+- [CompuWiki](https://github.com/compuwiki/compuwiki.github.io) - Wiki of Computing, articles and tables listing computing things
+  - [Compuwiki - Comparison Tables](https://github.com/compuwiki/comparison-tables)
+- [Interneto Project Website](https://github.com/interneto/interneto.github.io) - A site grouping about classifying Internet software: web directory, with software toolbox installer and compatibility explorer.
+
 ## Apps
 
 ### Web apps
