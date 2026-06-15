@@ -45,22 +45,22 @@ These are the languages, tools and software that I use for software development:
 
 ## My Projects
 
-- [David7ce Website](https://github.com/david7ce/david7ce.github.io) [website </>](https://david7ce.github.io/) - My David7ce's Blog and Portfolio
-- [CompuWiki](https://github.com/compuwiki/compuwiki.github.io) [website </>](https://compuwiki.github.io/) - Wiki of Computing, articles and tables listing computing things
+- [David7ce Website](https://github.com/david7ce/david7ce.github.io) / [website </>](https://david7ce.github.io/) - My David7ce's Blog and Portfolio
+- [CompuWiki](https://github.com/compuwiki/compuwiki.github.io) / [website </>](https://compuwiki.github.io/) - Wiki of Computing, articles and tables listing computing things
   - [Compuwiki - Comparison Tables](https://github.com/compuwiki/comparison-tables)
-- [Interneto Project Website](https://github.com/interneto/interneto.github.io) [website </>](https://interneto.github.io/) - A site grouping about classifying Internet software: web directory, with software toolbox installer and compatibility explorer.
+- [Interneto Project Website](https://github.com/interneto/interneto.github.io) / [website </>](https://interneto.github.io/) - A site grouping about classifying Internet software: web directory, with software toolbox installer and compatibility explorer.
 
 ## Apps
 
 ### Web apps
 
-- [Calculator Race Time](https://david7ce.is-a.dev/calculator-race-time) [website </>](https://github.com/David7ce/calculator-race-time) - Calculate Race Time
-- [Calendar Converter](https://david7ce.is-a.dev/calendar-converter) [website </>](https://github.com/David7ce/calendar-converter) - Calendar converter for multiple calendars
-- [Cryptos Graph](http://david7ce.is-a.dev/cryptos-graph) [website </>](https://github.com/David7ce/cryptos-graph) - Graph of the most famous cryptocurrencies
+- [Calculator Race Time](https://david7ce.is-a.dev/calculator-race-time) / [website </>](https://github.com/David7ce/calculator-race-time) - Calculate Race Time
+- [Calendar Converter](https://david7ce.is-a.dev/calendar-converter) / [website </>](https://github.com/David7ce/calendar-converter) - Calendar converter for multiple calendars
+- [Cryptos Graph](http://david7ce.is-a.dev/cryptos-graph) / [website </>](https://github.com/David7ce/cryptos-graph) - Graph of the most famous cryptocurrencies
 - [Read Rapide](http://david7ce.is-a.dev/read-rapide) [website </>](https://github.com/David7ce/read-rapide) - Practice rapid reading
-- [Sleeptime Calculator](http://david7ce.is-a.dev/sleeptime-calc) [website </>](https://github.com/David7ce/sleeptime-calc) - Sleep Time Calculator
+- [Sleeptime Calculator](http://david7ce.is-a.dev/sleeptime-calc) / [website </>](https://github.com/David7ce/sleeptime-calc) - Sleep Time Calculator
 - [Traductor Multilenguaje](https://github.com/David7ce/traductor-multilenguaje) - Multilanguage Translator
-- [TV Multiview](https://interneto.github.io/tv-multiview) [website </>](https://github.com/interneto/tv-multiview) - Watch multiple TV channels at once
+- [TV Multiview](https://interneto.github.io/tv-multiview) / [website </>](https://github.com/interneto/tv-multiview) - Watch multiple TV channels at once
 
 ### CLI
 
