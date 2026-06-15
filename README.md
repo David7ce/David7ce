@@ -93,7 +93,7 @@ These are the languages, tools and software that I use for software development:
   </a>
 </div>
 
-More [about me here](https://david7ce.github.io/en/about).
+More [about me here](https://david7ce.is-a.dev/en/about-me/).
 
 <!--
 ### 📊 GitHub Stats
