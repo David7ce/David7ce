@@ -54,13 +54,13 @@ These are the languages, tools and software that I use for software development:
 
 ### Web apps
 
-- [Calculator Race Time](https://david7ce.is-a.dev/calculator-race-time) / [website </>](https://github.com/David7ce/calculator-race-time) - Calculate Race Time
-- [Calendar Converter](https://david7ce.is-a.dev/calendar-converter) / [website </>](https://github.com/David7ce/calendar-converter) - Calendar converter for multiple calendars
-- [Cryptos Graph](http://david7ce.is-a.dev/cryptos-graph) / [website </>](https://github.com/David7ce/cryptos-graph) - Graph of the most famous cryptocurrencies
-- [Read Rapide](http://david7ce.is-a.dev/read-rapide) / [website </>](https://github.com/David7ce/read-rapide) - Practice rapid reading
-- [Sleeptime Calculator](http://david7ce.is-a.dev/sleeptime-calc) / [website </>](https://github.com/David7ce/sleeptime-calc) - Sleep Time Calculator
+- [Calculator Race Time](https://github.com/David7ce/calculator-race-time) / [website </>](https://david7ce.is-a.dev/calculator-race-time) - Calculate Race Time
+- [Calendar Converter](https://github.com/David7ce/calendar-converter) / [website </>](https://david7ce.is-a.dev/calendar-converter) - Calendar converter for multiple calendars
+- [Cryptos Graph](https://github.com/David7ce/cryptos-graph) / [website </>](https://david7ce.is-a.dev/cryptos-graph) - Graph of the most famous cryptocurrencies
+- [Read Rapide](https://github.com/David7ce/read-rapide) / [website </>](https://david7ce.is-a.dev/read-rapide) - Practice rapid reading
+- [Sleeptime Calculator](https://github.com/David7ce/sleeptime-calc) / [website </>](https://david7ce.is-a.dev/sleeptime-calc) - Sleep Time Calculator
 - [Traductor Multilenguaje](https://github.com/David7ce/traductor-multilenguaje) - Multilanguage Translator
-- [TV Multiview](https://interneto.github.io/tv-multiview) / [website </>](https://github.com/interneto/tv-multiview) - Watch multiple TV channels at once
+- [TV Multiview](https://github.com/interneto/tv-multiview) / [website </>](https://interneto.github.io/tv-multiview) - Watch multiple TV channels at once
 
 ### CLI
 
