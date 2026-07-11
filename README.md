@@ -54,6 +54,7 @@ These are the languages, tools and software that I use for software development:
 
 ### Web apps
 
+- [AAC Talking Dashboard](https://github.com/David7ce/aac-talking-board) - AAC Talking Dashboard Multilanguage
 - [Calculator Race Time](https://github.com/David7ce/calculator-race-time) / [website </>](https://david7ce.is-a.dev/calculator-race-time) - Calculate Race Time
 - [Calendar Converter](https://github.com/David7ce/calendar-converter) / [website </>](https://david7ce.is-a.dev/calendar-converter) - Calendar converter for multiple calendars
 - [Cryptos Graph](https://github.com/David7ce/cryptos-graph) / [website </>](https://david7ce.is-a.dev/cryptos-graph) - Graph of the most famous cryptocurrencies
@@ -64,6 +65,7 @@ These are the languages, tools and software that I use for software development:
 
 ### CLI
 
+- [Oracle Radio](https://github.com/David7ce/oracle-radio)) -  Oracle Radio Random Zap
 - [Recipesage to Recipebox](https://github.com/David7ce/recipesage-to-recipebox) - Recipe converter from Recipesage JSON to Recipebox zip JSON-LD
 - [Recipesage Converter CLI](https://github.com/David7ce/recipesage-converter) - Recipe converter from Recipesage JSON to PDF book
 - [Interneto · TUI Toolbox Installer](https://github.com/interneto/tui-toolbox-installer) - Cross platform TUI Toolbox Installer for installgin desktop, mobile (android), extensions (browser and vscode) and libraries software packages
