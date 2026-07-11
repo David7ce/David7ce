@@ -1,7 +1,7 @@
 <h1 align="center">David Alonso</h1>
 
 <p align="center">
- 🚀 Full Stack Web Developer | 💡 Passionate about technology and programming
+ 🚀 Full Stack Web Developer | 💡 Passionate about technology and programming with curiosity mind
 </p>
 <p align="center">
  📍 Santa Cruz de Tenerife, Canary Islands, Spain
