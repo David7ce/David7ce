@@ -45,30 +45,9 @@ These are the languages, tools and software that I use for software development:
 
 ## My Projects
 
-- David7ce - [repo](https://github.com/david7ce/david7ce.github.io) / [website](https://david7ce.github.io/) - My David7ce's Blog and Portfolio
-- CompuWiki - [repo](https://github.com/compuwiki/compuwiki.github.io) / [website](https://compuwiki.github.io/) - Wiki of Computing, articles and tables listing computing things
-  - Compuwiki · Comparison Tables - [repo](https://github.com/compuwiki/comparison-tables) / N/A
-- Interneto Project - [repo](https://github.com/interneto/interneto.github.io) / [website](https://interneto.github.io/) - A site grouping about classifying Internet software: web directory, with software toolbox installer and compatibility explorer.
+- [David7ce](https://github.com/david7ce) - Organizations ([ArkSys-OS](https://github.com/arksys-os), [CompuWiki](https://github.com/compuwiki), [Interneto](https://github.com/interneto), [Obsidian PKM Vault](https://github.com/obsidian-pkm-vault))
 
 ## Apps
-
-### Web apps
-
-- David7ce · AAC Talking Dashboard - [repo](https://github.com/David7ce/aac-talking-board) / [website](https://david7ce.is-a.dev/aac-talking-board) - AAC Talking Dashboard Multilanguage
-- David7ce · Calculator Race Time - [repo](https://github.com/David7ce/calculator-race-time) / [website](https://david7ce.is-a.dev/calculator-race-time) - Calculate Race Time
-- David7ce · Calendar Converter - [repo](https://github.com/David7ce/calendar-converter) / [website](https://david7ce.is-a.dev/calendar-converter) - Calendar converter for multiple calendars
-- David7ce · Cryptos Graph - [repo](https://github.com/David7ce/cryptos-graph) / [website](https://david7ce.is-a.dev/cryptos-graph) - Graph of the most famous cryptocurrencies
-- David7ce · Guess Faces [repo](https://github.com/David7ce/guess-faces) / [website](https://david7ce.is-a.dev/guess-faces/)
-- David7ce · Read Rapide - [repo](https://github.com/David7ce/read-rapide) / [website](https://david7ce.is-a.dev/read-rapide) - Practice rapid reading
-- David7ce · Sleeptime Calculator - [repo](https://github.com/David7ce/sleeptime-calc) / [website](https://david7ce.is-a.dev/sleeptime-calc) - Sleep Time Calculator
-- David7ce · Traductor Multilenguaje - [repo](https://github.com/David7ce/traductor-multilenguaje) - Multilanguage Translator
-- Interneto · TV Multiview - [repo](https://github.com/interneto/tv-multiview) / [website](https://interneto.github.io/tv-multiview) - Watch multiple TV channels at once
-
-<!--
-- David7ce · Calendar Events Tenerife - [repo](https://github.com/David7ce/calendar-events-tenerife) / N/A
-- David7ce · Universal Map App - [repo](https://github.com/David7ce/universal-map-app) / N/A
-- David7ce · Medistec Web - [repo](https://github.com/David7ce/medistec-web) / M/A
--->
 
 ### CLI
 
@@ -86,9 +65,34 @@ These are the languages, tools and software that I use for software development:
 
 ## Vault of Knowledge
 
+- Compuwiki · Comparison Tables - [repo](https://github.com/compuwiki/comparison-tables) / N/A
 - [Compuwiki · Diccionario Español](https://github.com/obsidian-pkm-vault/diccionario-es) - Spanish Dictionary with JSON-LD
 - [Compuwiki · Development Hub](https://github.com/compuwiki/dev-hub) - Development Hub for practicing and studying software development
 - [Obsidian PKM Vault · Awesome Vaults](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault) - Awesome list of obsidian vaults (~500 ⭐)
+
+### Web apps
+
+- David7ce · AAC Talking Dashboard - [repo](https://github.com/David7ce/aac-talking-board) / [website](https://david7ce.is-a.dev/aac-talking-board) - AAC Talking Dashboard Multilanguage
+- David7ce · Calculator Race Time - [repo](https://github.com/David7ce/calculator-race-time) / [website](https://david7ce.is-a.dev/calculator-race-time) - Calculate Race Time
+- David7ce · Calendar Converter - [repo](https://github.com/David7ce/calendar-converter) / [website](https://david7ce.is-a.dev/calendar-converter) - Calendar converter for multiple calendars
+- David7ce · Cryptos Graph - [repo](https://github.com/David7ce/cryptos-graph) / [website](https://david7ce.is-a.dev/cryptos-graph) - Graph of the most famous cryptocurrencies
+- David7ce · Guess Faces [repo](https://github.com/David7ce/guess-faces) / [website](https://david7ce.is-a.dev/guess-faces)
+- David7ce · Human Data [repo](https://github.com/David7ce/human-data) / [website](https://david7ce.is-a.dev/human-data)
+- David7ce · Read Rapide - [repo](https://github.com/David7ce/read-rapide) / [website](https://david7ce.is-a.dev/read-rapide) - Practice rapid reading
+- David7ce · Sleeptime Calculator - [repo](https://github.com/David7ce/sleeptime-calc) / [website](https://david7ce.is-a.dev/sleeptime-calc) - Sleep Time Calculator
+- David7ce · Traductor Multilenguaje - [repo](https://github.com/David7ce/traductor-multilenguaje) - Multilanguage Translator
+- Interneto · TV Multiview - [repo](https://github.com/interneto/tv-multiview) / [website](https://interneto.github.io/tv-multiview) - Watch multiple TV channels at once
+<!--
+- David7ce · Calendar Events Tenerife - [repo](https://github.com/David7ce/calendar-events-tenerife) / N/A
+- David7ce · Universal Map App - [repo](https://github.com/David7ce/universal-map-app) / N/A
+- David7ce · Medistec Web - [repo](https://github.com/David7ce/medistec-web) / M/A
+-->
+
+## Websites
+
+- David7ce - [repo](https://github.com/david7ce/david7ce.github.io) / [website](https://david7ce.github.io/) - My David7ce's Blog and Portfolio
+- CompuWiki - [repo](https://github.com/compuwiki/compuwiki.github.io) / [website](https://compuwiki.github.io/) - Wiki of Computing, articles and tables listing computing things
+- Interneto Project - [repo](https://github.com/interneto/interneto.github.io) / [website](https://interneto.github.io/) - A site grouping about classifying Internet software: web directory, with software toolbox installer and compatibility explorer.
 
 ---
 
