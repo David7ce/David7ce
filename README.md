@@ -66,9 +66,9 @@ These are the languages, tools and software that I use for software development:
 ## Vault of Knowledge
 
 - Compuwiki · Comparison Tables - [repo](https://github.com/compuwiki/comparison-tables) / N/A
-- [Compuwiki · Diccionario Español](https://github.com/obsidian-pkm-vault/diccionario-es) - Spanish Dictionary with JSON-LD
-- [Compuwiki · Development Hub](https://github.com/compuwiki/dev-hub) - Development Hub for practicing and studying software development
-- [Obsidian PKM Vault · Awesome Vaults](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault) - Awesome list of obsidian vaults (~500 ⭐)
+- Compuwiki · Diccionario Español - [repo](https://github.com/obsidian-pkm-vault/diccionario-es) - Spanish Dictionary with JSON-LD
+- Compuwiki · Development Hub - [repo](https://github.com/compuwiki/dev-hub) - Development Hub for practicing and studying software development
+- Obsidian PKM Vault · Awesome Vaults - [repo](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault) - Awesome list of obsidian vaults (~500 ⭐)
 
 ### Web apps
 
