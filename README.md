@@ -45,10 +45,10 @@ These are the languages, tools and software that I use for software development:
 
 ## My Projects
 
-- David7ce Website - [repo](https://github.com/david7ce/david7ce.github.io) / [website](https://david7ce.github.io/) - My David7ce's Blog and Portfolio
+- David7ce - [repo](https://github.com/david7ce/david7ce.github.io) / [website](https://david7ce.github.io/) - My David7ce's Blog and Portfolio
 - CompuWiki - [repo](https://github.com/compuwiki/compuwiki.github.io) / [website](https://compuwiki.github.io/) - Wiki of Computing, articles and tables listing computing things
   - Compuwiki · Comparison Tables - [repo](https://github.com/compuwiki/comparison-tables) / N/A
-- Interneto Project Website - [repo](https://github.com/interneto/interneto.github.io) / [website](https://interneto.github.io/) - A site grouping about classifying Internet software: web directory, with software toolbox installer and compatibility explorer.
+- Interneto Project - [repo](https://github.com/interneto/interneto.github.io) / [website](https://interneto.github.io/) - A site grouping about classifying Internet software: web directory, with software toolbox installer and compatibility explorer.
 
 ## Apps
 
@@ -86,9 +86,9 @@ These are the languages, tools and software that I use for software development:
 
 ## Vault of Knowledge
 
-- [Obsidian PKM Vault · Awesome Vaults](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault) - Awesome list of obsidian vaults (~500 ⭐)
 - [Compuwiki · Diccionario Español](https://github.com/obsidian-pkm-vault/diccionario-es) - Spanish Dictionary with JSON-LD
 - [Compuwiki · Development Hub](https://github.com/compuwiki/dev-hub) - Development Hub for practicing and studying software development
+- [Obsidian PKM Vault · Awesome Vaults](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault) - Awesome list of obsidian vaults (~500 ⭐)
 
 ---
 
