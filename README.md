@@ -20,7 +20,7 @@ These are the languages, tools and software that I use for software development:
 ## Languages & Tools
 
 | **Category**    | **Items**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Human**       | ![Spanish](https://img.shields.io/badge/Español-🇪🇸-red) ![English](https://img.shields.io/badge/English-🇺🇸-blue)                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | **Programming** | ![Bash](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GNU%20Bash) ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=JavaScript&logoColor=black) <!-- ![Java](https://img.shields.io/badge/-Java-E34F26?style=flat&logo=java&logoColor=white) -->                                                                                                                                                                                                           |
 | **Markup**      | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=white) ![XML](https://img.shields.io/badge/-XML-00599C?style=flat&logo=XML&logoColor=white)                                                                                                                                                                                                                                                                                                   |
@@ -31,7 +31,7 @@ These are the languages, tools and software that I use for software development:
 ## Software
 
 | **Category**          | **Items**                                                                                                                                                                                                                                                                                                                                                                                                    |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **OS**                | ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white) ![Arch Linux (E-OS)](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white) / ![KDE](https://img.shields.io/badge/KDE-1D99F3?style=flat&logo=kde&logoColor=white) |
 | **AI Coding Aggents** | ![Claude Code](https://img.shields.io/badge/Claude_Code-555?logo=claude) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-8DD6F9?style=flat&logo=githubcopilot&logoColor=black)                                                                                                                                                                                                               |
 | **Code editors**      | ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white) ![VSCode](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)                            |
@@ -43,56 +43,83 @@ These are the languages, tools and software that I use for software development:
 | **Web server**        | ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white) ![XAMPP](https://img.shields.io/badge/-XAMPP-F37623?style=flat&logo=xampp&logoColor=white)                                                                                                                          |
 | **Platforms**         | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)                                                                                                           |
 
-## My Projects
+## My David7ce's Projects
 
-- [David7ce](https://github.com/david7ce) - Organizations ([ArkSys-OS](https://github.com/arksys-os), [CompuWiki](https://github.com/compuwiki), [Interneto](https://github.com/interneto), [Obsidian PKM Vault](https://github.com/obsidian-pkm-vault))
+- [David7ce](https://github.com/david7ce) — David7ce Personal Projects
+- [ArkSys-OS](https://github.com/arksys-os) — ArkSys an Arch KDE Linux distro
+- [CompuWiki](https://github.com/compuwiki) — Wiki of Computing
+- [Interneto](https://github.com/interneto) — Web directory, package manager generator and blogsite
+- [Obsidian PKM Vault](https://github.com/obsidian-pkm-vault) — Awesome list of knowledge vaults
 
-## Apps
+## Repository List
 
-### CLI
+Click a category to expand the repositories it contains.
 
-- David7ce · Bookmarks Report - [repo](https://github.com/David7ce/bookmarks-report) - Sync bookamrks between Chromiun and Firefox
-- David7ce · Oracle Radio - [repo](https://github.com/David7ce/oracle-radio) -  Oracle Radio Random Zap
-- David7ce · Recipesage to Recipebox - [repo](https://github.com/David7ce/recipesage-to-recipebox) - Recipe converter from Recipesage JSON to Recipebox zip JSON-LD
-- David7ce · Recipesage Converter CLI - [repo](https://github.com/David7ce/recipesage-converter) - Recipe converter from Recipesage JSON to PDF book
-- Interneto · TUI Toolbox Installer - [repo](https://github.com/interneto/tui-toolbox-installer) - Cross platform TUI Toolbox Installer for installgin desktop, mobile (android), extensions (browser and vscode) and libraries software packages
+<details>
+<summary><strong>CLI</strong></summary>
 
-### Linux Ports
+- David7ce · Bookmarks Report — [repo](https://github.com/David7ce/bookmarks-report)
+- David7ce · Oracle Radio — [repo](https://github.com/David7ce/oracle-radio)
+- David7ce · Recipesage to Recipebox — [repo](https://github.com/David7ce/recipesage-to-recipebox)
+- David7ce · Recipesage Converter CLI — [repo](https://github.com/David7ce/recipesage-converter)
+- Interneto · TUI Toolbox Installer — [repo](https://github.com/interneto/tui-toolbox-installer)
 
-- Arksys · ISO - [repo](https://github.com/arksys-os/arksys-iso) - An Arch Linux KDE ISO configured with minimal pkgs (not mantained)
-- Arksys · Affinity on Linux - [repo](https://github.com/arksys-os/affinity-on-linux) - Affinity apps ported to Linux (old suite individual apps)
-- Arksys · Linux Install Guide - [repo](https://github.com/arksys-os/linux-install-guide) - Guide article on how to install Linux
+</details>
 
-## Vault of Knowledge
+<details>
+<summary><strong>Linux Ports</strong></summary>
 
-- Compuwiki · Comparison Tables - [repo](https://github.com/compuwiki/comparison-tables) / N/A
-- Compuwiki · Diccionario Español - [repo](https://github.com/obsidian-pkm-vault/diccionario-es) - Spanish Dictionary with JSON-LD
-- Compuwiki · Development Hub - [repo](https://github.com/compuwiki/dev-hub) - Development Hub for practicing and studying software development
-- Obsidian PKM Vault · Awesome Vaults - [repo](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault) - Awesome list of obsidian vaults (~500 ⭐)
+- Arksys · ISO — [repo](https://github.com/arksys-os/arksys-iso)
+- Arksys · Affinity on Linux — [repo](https://github.com/arksys-os/affinity-on-linux)
+- Arksys · Linux Install Guide — [repo](https://github.com/arksys-os/linux-install-guide)
 
-### Web apps
+</details>
 
-- David7ce · AAC Talking Dashboard - [repo](https://github.com/David7ce/aac-talking-board) / [website](https://david7ce.is-a.dev/aac-talking-board) - AAC Talking Dashboard Multilanguage
-- David7ce · Calculator Race Time - [repo](https://github.com/David7ce/calculator-race-time) / [website](https://david7ce.is-a.dev/calculator-race-time) - Calculate Race Time
-- David7ce · Calendar Converter - [repo](https://github.com/David7ce/calendar-converter) / [website](https://david7ce.is-a.dev/calendar-converter) - Calendar converter for multiple calendars
-- David7ce · Cryptos Graph - [repo](https://github.com/David7ce/cryptos-graph) / [website](https://david7ce.is-a.dev/cryptos-graph) - Graph of the most famous cryptocurrencies
-- David7ce · Guess Faces [repo](https://github.com/David7ce/guess-faces) / [website](https://david7ce.is-a.dev/guess-faces)
-- David7ce · Human Data [repo](https://github.com/David7ce/human-data) / [website](https://david7ce.is-a.dev/human-data)
-- David7ce · Read Rapide - [repo](https://github.com/David7ce/read-rapide) / [website](https://david7ce.is-a.dev/read-rapide) - Practice rapid reading
-- David7ce · Sleeptime Calculator - [repo](https://github.com/David7ce/sleeptime-calc) / [website](https://david7ce.is-a.dev/sleeptime-calc) - Sleep Time Calculator
-- David7ce · Traductor Multilenguaje - [repo](https://github.com/David7ce/traductor-multilenguaje) - Multilanguage Translator
-- Interneto · TV Multiview - [repo](https://github.com/interneto/tv-multiview) / [website](https://interneto.github.io/tv-multiview) - Watch multiple TV channels at once
+<details>
+<summary><strong>Vault of Knowledge</strong></summary>
+
+- Compuwiki · Comparison Tables — [repo](https://github.com/compuwiki/comparison-tables) / N/A
+- Compuwiki · Diccionario Español — [repo](https://github.com/obsidian-pkm-vault/diccionario-es)
+- Compuwiki · Development Hub — [repo](https://github.com/compuwiki/dev-hub)
+- Obsidian PKM Vault · Awesome Vaults (~500 ⭐) — [repo](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault)
+
+</details>
+
+<details>
+<summary><strong>Web Apps</strong></summary>
+
+- David7ce · AAC Talking Dashboard — [repo](https://github.com/David7ce/aac-talking-board) / [website](https://david7ce.is-a.dev/aac-talking-board)
+- David7ce · Calculator Race Time — [repo](https://github.com/David7ce/calculator-race-time) / [website](https://david7ce.is-a.dev/calculator-race-time)
+- David7ce · Calendar Converter — [repo](https://github.com/David7ce/calendar-converter) / [website](https://david7ce.is-a.dev/calendar-converter)
+- David7ce · Cryptos Graph — [repo](https://github.com/David7ce/cryptos-graph) / [website](https://david7ce.is-a.dev/cryptos-graph)
+- David7ce · Guess Faces — [repo](https://github.com/David7ce/guess-faces) / [website](https://david7ce.is-a.dev/guess-faces)
+- David7ce · Human Data — [repo](https://github.com/David7ce/human-data) / [website](https://david7ce.is-a.dev/human-data)
+- David7ce · Read Rapide — [repo](https://github.com/David7ce/read-rapide) / [website](https://david7ce.is-a.dev/read-rapide)
+- David7ce · Sleeptime Calculator — [repo](https://github.com/David7ce/sleeptime-calc) / [website](https://david7ce.is-a.dev/sleeptime-calc)
+- David7ce · Traductor Multilenguaje — [repo](https://github.com/David7ce/traductor-multilenguaje)
+- Interneto · TV Multiview — [repo](https://github.com/interneto/tv-multiview) / [website](https://interneto.github.io/tv-multiview)
+
+</details>
+
+<details>
+<summary><strong>Websites</strong></summary>
+
+- David7ce — [repo](https://github.com/david7ce/david7ce.github.io) / [website](https://david7ce.github.io/)
+- CompuWiki — [repo](https://github.com/compuwiki/compuwiki.github.io) / [website](https://compuwiki.github.io/)
+- Interneto Project — [repo](https://github.com/interneto/interneto.github.io) / [website](https://interneto.github.io/)
+
+</details>
+
 <!--
-- David7ce · Calendar Events Tenerife - [repo](https://github.com/David7ce/calendar-events-tenerife) / N/A
-- David7ce · Universal Map App - [repo](https://github.com/David7ce/universal-map-app) / N/A
-- David7ce · Medistec Web - [repo](https://github.com/David7ce/medistec-web) / M/A
+<details>
+<summary><strong>Work</strong></summary>
+
+- David7ce · Calendar Events Tenerife — [repo](https://github.com/David7ce/calendar-events-tenerife) / N/A
+- David7ce · Universal Map App — [repo](https://github.com/David7ce/universal-map-app) / N/A
+- David7ce · Medistec Web — [repo](https://github.com/David7ce/medistec-web) / M/A
+
+</details>
 -->
-
-## Websites
-
-- David7ce - [repo](https://github.com/david7ce/david7ce.github.io) / [website](https://david7ce.github.io/) - My David7ce's Blog and Portfolio
-- CompuWiki - [repo](https://github.com/compuwiki/compuwiki.github.io) / [website](https://compuwiki.github.io/) - Wiki of Computing, articles and tables listing computing things
-- Interneto Project - [repo](https://github.com/interneto/interneto.github.io) / [website](https://interneto.github.io/) - A site grouping about classifying Internet software: web directory, with software toolbox installer and compatibility explorer.
 
 ---
 
