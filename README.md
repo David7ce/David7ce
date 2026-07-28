@@ -56,7 +56,7 @@ These are the languages, tools and software that I use for software development:
 Click a category to expand the repositories it contains.
 
 <details>
-<summary><strong>CLI</strong></summary>
+<summary><strong>CLI (5)</strong></summary>
 
 - David7ce · Bookmarks Report — [repo](https://github.com/David7ce/bookmarks-report)
 - David7ce · Oracle Radio — [repo](https://github.com/David7ce/oracle-radio)
@@ -67,7 +67,7 @@ Click a category to expand the repositories it contains.
 </details>
 
 <details>
-<summary><strong>Linux Ports</strong></summary>
+<summary><strong>Linux Ports (3)</strong></summary>
 
 - Arksys · ISO — [repo](https://github.com/arksys-os/arksys-iso)
 - Arksys · Affinity on Linux — [repo](https://github.com/arksys-os/affinity-on-linux)
@@ -76,7 +76,7 @@ Click a category to expand the repositories it contains.
 </details>
 
 <details>
-<summary><strong>Vault of Knowledge</strong></summary>
+<summary><strong>Vault of Knowledge (4)</strong></summary>
 
 - Compuwiki · Comparison Tables — [repo](https://github.com/compuwiki/comparison-tables) / N/A
 - Compuwiki · Diccionario Español — [repo](https://github.com/obsidian-pkm-vault/diccionario-es)
@@ -86,7 +86,7 @@ Click a category to expand the repositories it contains.
 </details>
 
 <details>
-<summary><strong>Web Apps</strong></summary>
+<summary><strong>Web Apps (10)</strong></summary>
 
 - David7ce · AAC Talking Dashboard — [repo](https://github.com/David7ce/aac-talking-board) / [website](https://david7ce.is-a.dev/aac-talking-board)
 - David7ce · Calculator Race Time — [repo](https://github.com/David7ce/calculator-race-time) / [website](https://david7ce.is-a.dev/calculator-race-time)
@@ -102,7 +102,7 @@ Click a category to expand the repositories it contains.
 </details>
 
 <details>
-<summary><strong>Websites</strong></summary>
+<summary><strong>Websites (3)</strong></summary>
 
 - David7ce — [repo](https://github.com/david7ce/david7ce.github.io) / [website](https://david7ce.github.io/)
 - CompuWiki — [repo](https://github.com/compuwiki/compuwiki.github.io) / [website](https://compuwiki.github.io/)
