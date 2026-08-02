@@ -76,11 +76,12 @@ Click a category to expand the repositories it contains.
 </details>
 
 <details>
-<summary><strong>Vault of Knowledge (4)</strong></summary>
+<summary><strong>Lists / Vault of Knowledge (4)</strong></summary>
 
 - Compuwiki · Comparison Tables — [repo](https://github.com/compuwiki/comparison-tables)
 - Compuwiki · Diccionario Español — [repo](https://github.com/obsidian-pkm-vault/diccionario-es)
 - Compuwiki · Development Hub — [repo](https://github.com/compuwiki/dev-hub)
+- Interneto · LLM Pricing — [repo](https://github.com:interneto/llm-pricing)
 - Obsidian PKM Vault · Awesome Vaults (~500 ⭐) — [repo](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault)
 
 </details>
