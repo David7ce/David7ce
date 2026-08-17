@@ -95,8 +95,8 @@ Click a category to expand the repositories it contains.
 - David7ce · Guess Faces — [repo](https://github.com/David7ce/guess-faces) / [website](https://david7ce.is-a.dev/guess-faces)
 - David7ce · Human Data — [repo](https://github.com/David7ce/human-data) / [website](https://david7ce.is-a.dev/human-data)
 - David7ce · Read Rapide — [repo](https://github.com/David7ce/read-rapide) / [website](https://david7ce.is-a.dev/read-rapide)
-- David7ce · Sleeptime Calculator — [repo](https://github.com/David7ce/sleeptime-calc) / [website](https://david7ce.is-a.dev/sleeptime-calc)
-- David7ce · Traductor Multilenguaje — [repo](https://github.com/David7ce/traductor-multilenguaje)
+- David7ce · Sleeptime Calculator — [repo](https://github.com/David7ce/sleep-cycles-calc) / [website](https://david7ce.is-a.dev/sleep-cycles-calc/)
+- David7ce · Traductor Multilenguaje — [repo](https://github.com/David7ce/translator-multilang)  / [website](https://david7ce.is-a.dev/translator-multilang/)
 - Interneto · LLM Pricing — [repo](https://github.com:interneto/llm-pricing) / [website](https://interneto.github.io/llm-pricing/)
 - Interneto · TV Multiview — [repo](https://github.com/interneto/tv-multiview) / [website](https://interneto.github.io/tv-multiview)
 
