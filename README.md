@@ -76,19 +76,18 @@ Click a category to expand the repositories it contains.
 </details>
 
 <details>
-<summary><strong>Lists / Vault of Knowledge (4)</strong></summary>
+<summary><strong>Lists / Vault of Knowledge (3)</strong></summary>
 
 - Compuwiki · Comparison Tables — [repo](https://github.com/compuwiki/comparison-tables)
-- Compuwiki · Diccionario Español — [repo](https://github.com/obsidian-pkm-vault/diccionario-es) / [website](https://obsidian-pkm-vault.github.io/diccionario-es/)
 - Compuwiki · Development Hub — [repo](https://github.com/compuwiki/dev-hub)
-- Interneto · LLM Pricing — [repo](https://github.com:interneto/llm-pricing) / [website](https://interneto.github.io/llm-pricing/)
 - Obsidian PKM Vault · Awesome Vaults (~500 ⭐) — [repo](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault)
 
 </details>
 
 <details>
-<summary><strong>Web Apps (10)</strong></summary>
+<summary><strong>Web Apps (12)</strong></summary>
 
+- Compuwiki · Diccionario Español — [repo](https://github.com/obsidian-pkm-vault/diccionario-es) / [website](https://obsidian-pkm-vault.github.io/diccionario-es/)
 - David7ce · AAC Talking Dashboard — [repo](https://github.com/David7ce/aac-talking-board) / [website](https://david7ce.is-a.dev/aac-talking-board)
 - David7ce · Calculator Race Time — [repo](https://github.com/David7ce/calculator-race-time) / [website](https://david7ce.is-a.dev/calculator-race-time)
 - David7ce · Calendar Converter — [repo](https://github.com/David7ce/calendar-converter) / [website](https://david7ce.is-a.dev/calendar-converter)
@@ -98,12 +97,13 @@ Click a category to expand the repositories it contains.
 - David7ce · Read Rapide — [repo](https://github.com/David7ce/read-rapide) / [website](https://david7ce.is-a.dev/read-rapide)
 - David7ce · Sleeptime Calculator — [repo](https://github.com/David7ce/sleeptime-calc) / [website](https://david7ce.is-a.dev/sleeptime-calc)
 - David7ce · Traductor Multilenguaje — [repo](https://github.com/David7ce/traductor-multilenguaje)
+- Interneto · LLM Pricing — [repo](https://github.com:interneto/llm-pricing) / [website](https://interneto.github.io/llm-pricing/)
 - Interneto · TV Multiview — [repo](https://github.com/interneto/tv-multiview) / [website](https://interneto.github.io/tv-multiview)
 
 </details>
 
 <details>
-<summary><strong>Websites (3)</strong></summary>
+<summary><strong>Web Projects(3)</strong></summary>
 
 - David7ce — [repo](https://github.com/david7ce/david7ce.github.io) / [website](https://david7ce.github.io/)
 - CompuWiki — [repo](https://github.com/compuwiki/compuwiki.github.io) / [website](https://compuwiki.github.io/)
