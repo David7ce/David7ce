@@ -49,6 +49,7 @@ These are the languages, tools and software that I use for software development:
 - [ArkSys-OS](https://github.com/arksys-os) — ArkSys an Arch KDE Linux distro
 - [CompuWiki](https://github.com/compuwiki) — Wiki of Computing
 - [Interneto](https://github.com/interneto) — Web directory, package manager generator and blogsite
+- [MediaHub Org](https://github.com/MediaHub-Org) - Media Streaming Apps
 - [Obsidian PKM Vault](https://github.com/obsidian-pkm-vault) — Awesome list of knowledge vaults
 
 ## Repository List
@@ -63,6 +64,15 @@ Click a category to expand the repositories it contains.
 - David7ce · Recipesage to Recipebox — [repo](https://github.com/David7ce/recipesage-to-recipebox)
 - David7ce · Recipesage Converter CLI — [repo](https://github.com/David7ce/recipesage-converter)
 - Interneto · TUI Toolbox Installer — [repo](https://github.com/interneto/tui-toolbox-installer)
+
+</details>
+
+<details>
+<summary><strong>Desktop App (5)</strong></summary>
+
+- David7ce · App launcher — [repo](https://github.com/David7ce/app-launcher)
+- David7ce · Cellular Automata Rust — [repo](https://github.com/David7ce/cellular-automata-rust)
+- David7ce · Slidr — [repo](https://github.com/David7ce/Slidr)
 
 </details>
 
@@ -85,9 +95,10 @@ Click a category to expand the repositories it contains.
 </details>
 
 <details>
-<summary><strong>Web Apps (12)</strong></summary>
+<summary><strong>Web Apps (13)</strong></summary>
 
 - Compuwiki · Diccionario Español — [repo](https://github.com/obsidian-pkm-vault/diccionario-es) / [website](https://obsidian-pkm-vault.github.io/diccionario-es/)
+- Compuwiki · OS Database - [repo](https://github.com/compuwiki/os-database/) / [website](https://compuwiki.github.io/os-database/)
 - David7ce · AAC Talking Dashboard — [repo](https://github.com/David7ce/aac-talking-board) / [website](https://david7ce.is-a.dev/aac-talking-board)
 - David7ce · Calculator Race Time — [repo](https://github.com/David7ce/calculator-race-time) / [website](https://david7ce.is-a.dev/calculator-race-time)
 - David7ce · Calendar Converter — [repo](https://github.com/David7ce/calendar-converter) / [website](https://david7ce.is-a.dev/calendar-converter)
@@ -103,7 +114,7 @@ Click a category to expand the repositories it contains.
 </details>
 
 <details>
-<summary><strong>Web Projects(3)</strong></summary>
+<summary><strong>Web Projects (3)</strong></summary>
 
 - David7ce — [repo](https://github.com/david7ce/david7ce.github.io) / [website](https://david7ce.github.io/)
 - CompuWiki — [repo](https://github.com/compuwiki/compuwiki.github.io) / [website](https://compuwiki.github.io/)
