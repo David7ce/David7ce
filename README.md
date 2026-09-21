@@ -108,6 +108,7 @@ Click a category to expand the repositories it contains.
 - David7ce · Read Rapide — [repo](https://github.com/David7ce/read-rapide) / [website](https://david7ce.is-a.dev/read-rapide)
 - David7ce · Sleeptime Calculator — [repo](https://github.com/David7ce/sleep-cycles-calc) / [website](https://david7ce.is-a.dev/sleep-cycles-calc/)
 - David7ce · Traductor Multilenguaje — [repo](https://github.com/David7ce/translator-multilang)  / [website](https://david7ce.is-a.dev/translator-multilang/)
+- David7ce · Universal Map App — [repo](https://github.com/David7ce/universal-map-app)  / [website](https://david7ce.is-a.dev/universal-map-app/)
 - Interneto · LLM Pricing — [repo](https://github.com:interneto/llm-pricing) / [website](https://interneto.github.io/llm-pricing/)
 - Interneto · TV Multiview — [repo](https://github.com/interneto/tv-multiview) / [website](https://interneto.github.io/tv-multiview)
 
