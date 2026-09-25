@@ -68,7 +68,7 @@ Click a category to expand the repositories it contains.
 </details>
 
 <details>
-<summary><strong>Desktop App (5)</strong></summary>
+<summary><strong>Desktop App (3)</strong></summary>
 
 - David7ce · App launcher — [repo](https://github.com/David7ce/app-launcher)
 - David7ce · Cellular Automata Rust — [repo](https://github.com/David7ce/cellular-automata-rust)
@@ -95,7 +95,7 @@ Click a category to expand the repositories it contains.
 </details>
 
 <details>
-<summary><strong>Web Apps (13)</strong></summary>
+<summary><strong>Web Apps (14)</strong></summary>
 
 - Compuwiki · Diccionario Español — [repo](https://github.com/obsidian-pkm-vault/diccionario-es) / [website](https://obsidian-pkm-vault.github.io/diccionario-es/)
 - Compuwiki · OS Database - [repo](https://github.com/compuwiki/os-database/) / [website](https://compuwiki.github.io/os-database/)
