@@ -45,12 +45,12 @@ These are the languages, tools and software that I use for software development:
 
 ## My David7ce's Projects
 
-- [David7ce](https://github.com/david7ce) — David7ce Personal Projects
-- [ArkSys-OS](https://github.com/arksys-os) — ArkSys an Arch KDE Linux distro
-- [CompuWiki](https://github.com/compuwiki) — Wiki of Computing
-- [Interneto](https://github.com/interneto) — Web directory, package manager generator and blogsite
+- [David7ce](https://github.com/david7ce) / [website](https://david7ce.is-a.dev/en/) — David7ce Personal Projects
+- [CompuWiki](https://github.com/compuwiki) / [website](https://compuwiki.github.io/) — Wiki of Computing
+- [Interneto](https://github.com/interneto) / [website](https://interneto.github.io/) — Web directory, package manager generator and blogsite
 - [MediaHub Org](https://github.com/MediaHub-Org) - Media Streaming Apps
 - [Obsidian PKM Vault](https://github.com/obsidian-pkm-vault) — Awesome list of knowledge vaults
+- [ArkSys-OS](https://github.com/arksys-os) — ArkSys an Arch KDE Linux distro
 
 ## Repository List
 
