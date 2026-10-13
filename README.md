@@ -77,7 +77,7 @@ Click a category to expand the repositories it contains.
 </details>
 
 <details>
-<summary><strong>Multiplatform Apps (Kotlin & Flutter) (3)</strong></summary>
+<summary><strong>Multiplatform Apps (Kotlin Multiplatform & Flutter) (1)</strong></summary>
 
 - David7ce · PKG-Lab — [repo](https://github.com/David7ce/pkg-lab)
 
