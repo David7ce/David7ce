@@ -1,7 +1,7 @@
 <h1 align="center">David Alonso</h1>
 
 <p align="center">
- 🚀 Full Stack Web Developer | 💡 Passionate about technology and programming with curiosity mind
+ 🚀 Software Developer | 💡 Passionate about technology and programming with curiosity mind
 </p>
 <p align="center">
  📍 Santa Cruz de Tenerife, Canary Islands, Spain
@@ -140,9 +140,10 @@ Click a category to expand the repositories it contains.
 
 ---
 
-### 📊 GitHub Stats
+![Random Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+<!--
+### 📊 GitHub Stats
 ![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=david7ce&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david7ce&layout=compact&theme=tokyonight&hide_border=true)
-
-![Random Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+-->
