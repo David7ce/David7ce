@@ -7,15 +7,23 @@
  📍 Santa Cruz de Tenerife, Canary Islands, Spain
 </p>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/david-alonsodd/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:david7ce@outlook.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
 ---
 
 ### 📌 About me
 
+👨‍💻 Worked in Cabildo de Tenerife redoing [Tenerife Comercio website](https://tenerifecomercio.com/).  
 🎓 Graduate in Web Applications Development.  
 💻 Lover of clean code, functional design and digital innovation.  
 🎯 Always learning and improving to create useful and scalable solutions.  
-
-These are the languages, tools and software that I use for software development:
 
 ## Languages & Tools
 
@@ -93,7 +101,7 @@ Click a category to expand the repositories it contains.
 </details>
 
 <details>
-<summary><strong>Vault of Knowledge (3)</strong></summary>
+<summary><strong>Vaults of Knowledge (3)</strong></summary>
 
 - Compuwiki · Comparison Tables — [repo](https://github.com/compuwiki/comparison-tables)
 - Compuwiki · Development Hub — [repo](https://github.com/compuwiki/dev-hub)
@@ -130,38 +138,11 @@ Click a category to expand the repositories it contains.
 
 </details>
 
-<!--
-<details>
-<summary><strong>Work</strong></summary>
-
-- David7ce · Calendar Events Tenerife — [repo](https://github.com/David7ce/calendar-events-tenerife) / N/A
-- David7ce · Universal Map App — [repo](https://github.com/David7ce/universal-map-app) / N/A
-- David7ce · Medistec Web — [repo](https://github.com/David7ce/medistec-web) / M/A
-
-</details>
--->
-
 ---
 
-### 📫 Conect with me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/david-alonsodd/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:david7ce@outlook.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-More [about me here](https://david7ce.is-a.dev/en/about-me/).
-
-<!--
 ### 📊 GitHub Stats
-<div align="center">
+
 ![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=david7ce&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david7ce&layout=compact&theme=tokyonight&hide_border=true)
-</div>
--->
-<!-- ![wallpaper-devices](./img/wallpaper-david7ce-devices.png) -->
-<!-- ![GitHub Skyline 2021-2025](github-skyline-2021-2025.stl) -->
+
+![Random Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
