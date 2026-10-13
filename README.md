@@ -68,7 +68,7 @@ Click a category to expand the repositories it contains.
 </details>
 
 <details>
-<summary><strong>Desktop App (3)</strong></summary>
+<summary><strong>Desktop Apps (3)</strong></summary>
 
 - David7ce · App launcher — [repo](https://github.com/David7ce/app-launcher)
 - David7ce · Cellular Automata Rust — [repo](https://github.com/David7ce/cellular-automata-rust)
@@ -77,7 +77,14 @@ Click a category to expand the repositories it contains.
 </details>
 
 <details>
-<summary><strong>Linux Ports (3)</strong></summary>
+<summary><strong>Multiplatform Apps (Kotlin & Flutter) (3)</strong></summary>
+
+- David7ce · PKG-Lab — [repo](https://github.com/David7ce/pkg-lab)
+
+</details>
+
+<details>
+<summary><strong>Ports to Linux (3)</strong></summary>
 
 - Arksys · ISO — [repo](https://github.com/arksys-os/arksys-iso)
 - Arksys · Affinity on Linux — [repo](https://github.com/arksys-os/affinity-on-linux)
@@ -86,7 +93,7 @@ Click a category to expand the repositories it contains.
 </details>
 
 <details>
-<summary><strong>Lists / Vault of Knowledge (3)</strong></summary>
+<summary><strong>Vault of Knowledge (3)</strong></summary>
 
 - Compuwiki · Comparison Tables — [repo](https://github.com/compuwiki/comparison-tables)
 - Compuwiki · Development Hub — [repo](https://github.com/compuwiki/dev-hub)
