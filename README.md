@@ -54,6 +54,7 @@
 ## My David7ce's Projects
 
 - [David7ce](https://github.com/david7ce) / [website](https://david7ce.is-a.dev/en/) — David7ce Personal Projects
+- [Calendar-XYZ](https://github.com/calendar-xyz) / [website](https://calendar-xyz.github.io/) — Universal Map Calendar
 - [CompuWiki](https://github.com/compuwiki) / [website](https://compuwiki.github.io/) — Wiki of Computing
 - [Interneto](https://github.com/interneto) / [website](https://interneto.github.io/) — Web directory, package manager generator and blogsite
 - [MediaHub Org](https://github.com/MediaHub-Org) - Media Streaming Apps
