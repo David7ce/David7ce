@@ -65,22 +65,40 @@
 Click a category to expand the repositories it contains.
 
 <details>
-<summary><strong>CLI (5)</strong></summary>
+<summary><strong>AI Tooling (3)</strong></summary>
+
+- David7ce · AI-PC — [repo](https://github.com/David7ce/AI-PC) — workspace organized by domain, for AI coding agents
+- David7ce · AI Config — [repo](https://github.com/David7ce/ai-config) — one `.ai/` folder generated into each agent's config format
+- David7ce · Audio to Score MCP — [repo](https://github.com/David7ce/audio2score-mcp) — audio to MIDI to MusicXML, as CLI or MCP server
+
+</details>
+
+<details>
+<summary><strong>CLI (6)</strong></summary>
 
 - David7ce · Bookmarks Report — [repo](https://github.com/David7ce/bookmarks-report)
 - David7ce · Oracle Radio — [repo](https://github.com/David7ce/oracle-radio)
 - David7ce · Recipesage to Recipebox — [repo](https://github.com/David7ce/recipesage-to-recipebox)
 - David7ce · Recipesage Converter CLI — [repo](https://github.com/David7ce/recipesage-converter)
+- David7ce · Shell Toolkit — [repo](https://github.com/David7ce/shell-toolkit)
 - Interneto · TUI Toolbox Installer — [repo](https://github.com/interneto/tui-toolbox-installer)
 
 </details>
 
 <details>
-<summary><strong>Desktop Apps (3)</strong></summary>
+<summary><strong>Desktop Apps (4)</strong></summary>
 
 - David7ce · App launcher — [repo](https://github.com/David7ce/app-launcher)
 - David7ce · Cellular Automata Rust — [repo](https://github.com/David7ce/cellular-automata-rust)
 - David7ce · Slidr — [repo](https://github.com/David7ce/Slidr)
+- MediaHub Org · RSS Reader — [repo](https://github.com/MediaHub-Org/rss-reader) — local-first RSS/Atom reader for Windows, macOS, Linux, Android and web
+
+</details>
+
+<details>
+<summary><strong>Games (1)</strong></summary>
+
+- David7ce · Go Retro — [repo](https://github.com/David7ce/goretro) — Canarias Go Retro, Godot
 
 </details>
 
@@ -101,25 +119,28 @@ Click a category to expand the repositories it contains.
 </details>
 
 <details>
-<summary><strong>Vaults of Knowledge (3)</strong></summary>
+<summary><strong>Vaults of Knowledge (4)</strong></summary>
 
 - Compuwiki · Comparison Tables — [repo](https://github.com/compuwiki/comparison-tables)
 - Compuwiki · Development Hub — [repo](https://github.com/compuwiki/dev-hub)
+- David7ce · Desktop Keymaps — [repo](https://github.com/David7ce/desktop-keymaps) — keyboard shortcut reference for popular desktop apps
 - Obsidian PKM Vault · Awesome Vaults (~500 ⭐) — [repo](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault)
 
 </details>
 
 <details>
-<summary><strong>Web Apps (14)</strong></summary>
+<summary><strong>Web Apps (16)</strong></summary>
 
 - Compuwiki · Diccionario Español — [repo](https://github.com/obsidian-pkm-vault/diccionario-es) / [website](https://obsidian-pkm-vault.github.io/diccionario-es/)
 - Compuwiki · OS Database - [repo](https://github.com/compuwiki/os-database/) / [website](https://compuwiki.github.io/os-database/)
 - David7ce · AAC Talking Dashboard — [repo](https://github.com/David7ce/aac-talking-board) / [website](https://david7ce.is-a.dev/aac-talking-board)
 - David7ce · Calculator Race Time — [repo](https://github.com/David7ce/calculator-race-time) / [website](https://david7ce.is-a.dev/calculator-race-time)
 - David7ce · Calendar Converter — [repo](https://github.com/David7ce/calendar-converter) / [website](https://david7ce.is-a.dev/calendar-converter)
+- David7ce · Calendar Events Tenerife — [repo](https://github.com/David7ce/calendar-events-tenerife)
 - David7ce · Cryptos Graph — [repo](https://github.com/David7ce/cryptos-graph) / [website](https://david7ce.is-a.dev/cryptos-graph)
 - David7ce · Guess Faces — [repo](https://github.com/David7ce/guess-faces) / [website](https://david7ce.is-a.dev/guess-faces)
 - David7ce · Human Data — [repo](https://github.com/David7ce/human-data) / [website](https://david7ce.is-a.dev/human-data)
+- David7ce · Partidos Políticos Dashboard — [repo](https://github.com/David7ce/partidos-politicos-dashboard)
 - David7ce · Read Rapide — [repo](https://github.com/David7ce/read-rapide) / [website](https://david7ce.is-a.dev/read-rapide)
 - David7ce · Sleeptime Calculator — [repo](https://github.com/David7ce/sleep-cycles-calc) / [website](https://david7ce.is-a.dev/sleep-cycles-calc/)
 - David7ce · Traductor Multilenguaje — [repo](https://github.com/David7ce/translator-multilang)  / [website](https://david7ce.is-a.dev/translator-multilang/)
