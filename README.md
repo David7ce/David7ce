@@ -131,6 +131,7 @@ Click a category to expand the repositories it contains.
 <details>
 <summary><strong>Web Apps (16)</strong></summary>
 
+- Calendar-xyz · Universal Calendar Map — [repo](https://github.com/Calendar-xyz/calendar-xyz.github.io) / [website](https://calendar-xyz.github.io/)
 - Compuwiki · Diccionario Español — [repo](https://github.com/obsidian-pkm-vault/diccionario-es) / [website](https://obsidian-pkm-vault.github.io/diccionario-es/)
 - Compuwiki · OS Database - [repo](https://github.com/compuwiki/os-database/) / [website](https://compuwiki.github.io/os-database/)
 - David7ce · AAC Talking Dashboard — [repo](https://github.com/David7ce/aac-talking-board) / [website](https://david7ce.is-a.dev/aac-talking-board)
@@ -144,7 +145,6 @@ Click a category to expand the repositories it contains.
 - David7ce · Read Rapide — [repo](https://github.com/David7ce/read-rapide) / [website](https://david7ce.is-a.dev/read-rapide)
 - David7ce · Sleeptime Calculator — [repo](https://github.com/David7ce/sleep-cycles-calc) / [website](https://david7ce.is-a.dev/sleep-cycles-calc/)
 - David7ce · Traductor Multilenguaje — [repo](https://github.com/David7ce/translator-multilang)  / [website](https://david7ce.is-a.dev/translator-multilang/)
-- David7ce · Universal Map App — [repo](https://github.com/David7ce/universal-map-app)  / [website](https://david7ce.is-a.dev/universal-map-app/)
 - Interneto · LLM Pricing — [repo](https://github.com:interneto/llm-pricing) / [website](https://interneto.github.io/llm-pricing/)
 - MediaHub Org · TV Multiview — [repo](https://github.com/mediahub-org/tv-multiview) / [website](https://mediahub-org.github.io/tv-multiview)
 
